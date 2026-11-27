@@ -18,3 +18,5 @@ __pycache__/
 
 # Log files
 logs/
+# CatBoost training logs
+catboost_info/
